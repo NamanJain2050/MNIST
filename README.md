@@ -1,6 +1,6 @@
 # MNIST
 
-This repository demonstrates my analysis o MNSIT dataset.
+This repository demonstrates my analysis on MNSIT dataset. Work of this repo is inspired from Chapter 3 of Orielly's ML book. 
 1. Compared the performance of classifiers like Stochastic Gradient Descent (SGD) and Random Forest Classifier on the dataset.
 2. Used diifferent performace metrics like Accuracy, Precision-Recall and ROC-AUC
 3. Build both a binary and multi-class classifier
